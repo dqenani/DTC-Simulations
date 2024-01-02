@@ -1,0 +1,1 @@
+This project aims to perform NMR simulations (using the PULSEE package) of the DTC pulse sequence to an ADP sample. This is done to try and observe signature peaks of discrete time crystals(following the work done by (Rovny, Blum, and Barrett)

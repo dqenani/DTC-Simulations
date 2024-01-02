@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "simulation"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Qenani <daniel_qenani@brown.edu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+jupyter = "^1.0.0"
+pulsee = "^0.1.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
